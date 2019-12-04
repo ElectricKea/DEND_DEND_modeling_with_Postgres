@@ -1,5 +1,5 @@
 # Data Modeling with Postgres
-Project #1 for Udacity's Data Engineering Nanodegree  
+Project #1A for Udacity's Data Engineering Nanodegree  
 5th November 2019  
 By Kyle McMillan
 
